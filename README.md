@@ -1,2 +1,2 @@
 # Proyecto_Data_Visualization
-Fuentes de información que utilizaré para realizar este proyecto.
+Recopilación de las fuentes de información que utilizaré para realizar este proyecto.
